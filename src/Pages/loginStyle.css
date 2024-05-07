@@ -1,0 +1,16 @@
+.login-page{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, rgba(0, 255, 235, 1) 0%, rgba(7, 58, 187, 1) 100%);
+}
+.loginForm{
+   /* border-style: solid; */
+   border-radius: 1rem;
+   padding: 5rem;
+   background-color:floralwhite;
+
+
+    
+}
